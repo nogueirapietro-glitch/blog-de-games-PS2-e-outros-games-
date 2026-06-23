@@ -1,42 +1,32 @@
 # blog-de-games-PS2-e-outros-games-
-informações e curiosidades sobre o mundo dos jogos 
-<!DOCTYPE html>
-<html lang="pt-BR">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mundo Playstation: Curiosidades</title>
-    <link rel="stylesheet" href="style.css">
-</head>
-<body>
+informações e curiosidades sobre o mundo dos jogos
+informações e curiosidades sobre o mundo dos jogos
 
-    <header>
-        <h1>🎮 Curiosidades PlayStation</h1>
-        <p>Gerações PS2, PS3 e PS4 que marcaram época!</p>
-    </header>
+<title>Mundo Playstation: Curiosidades</title>
+<header>
+    <h1>🎮 Curiosidades PlayStation</h1>
+    <p>Gerações PS2, PS3 e PS4 que marcaram época!</p>
+</header>
 
-    <main class="container">
-        
-        <section class="card ps2">
-            <h2>PlayStation 2</h2>
-            <p class="fato"><strong>Você sabia?</strong> O PS2 é o console mais vendido de todos os tempos, superando 155 milhões de unidades. Além disso, as "torres" que apareciam na tela de abertura mudavam de tamanho baseadas na quantidade de jogos que você tinha salvos no seu Memory Card!</p>
-        </section>
+<main class="container">
+    
+    <section class="card ps2">
+        <h2>PlayStation 2</h2>
+        <p class="fato"><strong>Você sabia?</strong> O PS2 é o console mais vendido de todos os tempos, superando 155 milhões de unidades. Além disso, as "torres" que apareciam na tela de abertura mudavam de tamanho baseadas na quantidade de jogos que você tinha salvos no seu Memory Card!</p>
+    </section>
 
-        <section class="card ps3">
-            <h2>PlayStation 3</h2>
-            <p class="fato"><strong>Você sabia?</strong> O processador do PS3 (o famoso *Cell*) era tão poderoso na época que a Força Aérea dos EUA juntou mais de 1.700 consoles PS3 para construir um supercomputador complexo e barato para processar imagens de satélite.</p>
-        </section>
+    <section class="card ps3">
+        <h2>PlayStation 3</h2>
+        <p class="fato"><strong>Você sabia?</strong> O processador do PS3 (o famoso *Cell*) era tão poderoso na época que a Força Aérea dos EUA juntou mais de 1.700 consoles PS3 para construir um supercomputador complexo e barato para processar imagens de satélite.</p>
+    </section>
 
-        <section class="card ps4">
-            <h2>PlayStation 4</h2>
-            <p class="fato"><strong>Você sabia?</strong> O botão "Share" no controle DualShock 4 revolucionou a forma como compartilhamos gameplay. Só na primeira semana de lançamento do console, os jogadores usaram o botão para transmitir e compartilhar mais de 6,5 milhões de imagens e vídeos.</p>
-        </section>
+    <section class="card ps4">
+        <h2>PlayStation 4</h2>
+        <p class="fato"><strong>Você sabia?</strong> O botão "Share" no controle DualShock 4 revolucionou a forma como compartilhamos gameplay. Só na primeira semana de lançamento do console, os jogadores usaram o botão para transmitir e compartilhar mais de 6,5 milhões de imagens e vídeos.</p>
+    </section>
 
-    </main>
+</main>
 
-    <footer>
-        <p>Criado com 💙 por um fã de games.</p>
-    </footer>
-
-</body>
-</html>
+<footer>
+    <p>Criado com 💙 por um fã de games.</p>
+</footer>
